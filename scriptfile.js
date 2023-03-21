@@ -1,6 +1,5 @@
 //Variables
 let first, second, third
-alert("hello")
 //Give user message regarding vault
 console.log("You have received this message because you have been chosen to open an important vault. Here is the secret combination:")
 
