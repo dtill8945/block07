@@ -10,5 +10,5 @@ second = 40/2;
 third = 19+10;
 
 //Alerts user and gives them the combination to the secret vault
-alert(first + "-" second + "-" + third);
-console.log(first + "-" second + "-" + third);
+alert(first + "-" + second + "-" + third);
+console.log(first + "-" + second + "-" + third);
