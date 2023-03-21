@@ -4,7 +4,7 @@ let first, second, third
 //Give user message regarding vault
 console.log("You have received this message because you have been chosen to open an important vault. Here is the secret combination:")
 
-//Give variables each an equation
+// Give variables each an equation
 first = 5*2;
 second = 40/2;
 third = 19+10;
